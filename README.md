@@ -12,7 +12,7 @@ This repository contains a Django REST Framework-based Blog API with interactive
 
 ### 🚀 Live Demo
 
-Check out the detailed blog post about this project: How to Use Swagger UI with Django
+Check out the detailed blog post about this project: [How to Use Swagger UI with Django](https://dev.to/kihuni/how-to-use-swagger-ui-with-django-4l4a)
 
 Prerequisites
 
